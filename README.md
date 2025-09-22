@@ -35,6 +35,14 @@ END
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
 
+
+
+
+
+
+
+
+
 # 8051 Cube  Program
 
 ## AIM
